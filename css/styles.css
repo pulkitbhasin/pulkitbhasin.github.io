@@ -361,7 +361,7 @@ template {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
-  font-family: 'Arial';
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   line-height: 1.2;
   color: #343a40;
@@ -9778,7 +9778,6 @@ button.bg-dark:focus {
 
 .text-primary {
   color: #17a2b8 !important;
-  font-family: 'Open Sans', sans-serif;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10010,7 +10009,6 @@ p.lead {
 }
 
 .subheading {
-  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
