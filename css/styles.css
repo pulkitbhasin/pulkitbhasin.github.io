@@ -9778,7 +9778,7 @@ button.bg-dark:focus {
 
 .text-primary {
   color: #17a2b8 !important;
-  font-family: "Lato";
+  font-family: 'Open Sans', sans-serif;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10010,7 +10010,7 @@ p.lead {
 }
 
 .subheading {
-  font-family: "Lato";
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
