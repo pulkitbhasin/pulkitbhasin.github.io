@@ -9778,6 +9778,7 @@ button.bg-dark:focus {
 
 .text-primary {
   color: #17a2b8 !important;
+  font-family: 'Cormorant';
 }
 
 a.text-primary:hover, a.text-primary:focus {
