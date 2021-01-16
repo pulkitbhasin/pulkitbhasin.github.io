@@ -111,6 +111,7 @@ ul,
 dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
   
 }
 
